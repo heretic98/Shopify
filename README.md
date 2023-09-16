@@ -1,0 +1,2 @@
+# Shopify
+CopperQuench Dawn Theme
